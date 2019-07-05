@@ -5,10 +5,10 @@
 
  <br /> <p>
 
- ![Chrome Web Store Extension Chinese Video box Tencent Assistan](https://raw.githubusercontent.com/Download-Browser-Extensions/VideoBox-Tencent-Assistant/master/img/New128.png)
+ ![Chrome Web Store Extension Chinese Video box Tencent Assistan](https://raw.githubusercontent.com/Download-Browser-Extensions/VideoBox-Tencent-Assistant/master/img/128.png)
 ### Chrome Web Store Extension Chinese Video box Tencent Assistant  ( 追剧助手 ) 
 
-<img src="https://raw.githubusercontent.com/Download-Browser-Extensions/VideoBox-Tencent-Assistant/master/img/48.png" width="30" /> Chrome Web Store Extension Chinese Video box Tencent Assistant 
+# Chrome Web Store Extension Chinese Video box Tencent Assistant <img src="https://raw.githubusercontent.com/Download-Browser-Extensions/VideoBox-Tencent-Assistant/master/img/48.png" width="30" /> 
 
 ---
 
