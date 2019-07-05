@@ -1,0 +1,25 @@
+
+
+   追剧助手【QQ浏览器官方出品】QQ浏览器官方提供的视频服务，快速查看视频观看历史，订阅全网视频，享受最新最热免费大片，不错过最热门的影视内容。
+
+ "version": "10.2.5",
+
+   "authors": [ { "name": "Mohammed Osama Mohamed Sayed Ahmed", "email": "mohammed.osama914@gmail.com" } ],
+
+ 
+   "minimum_chrome_version": "38.0.0.0",
+
+  /*
+  "storage": {
+      "managed_schema": "managed-storage-schema.json"
+   },
+  */ 
+    "kiosk_enabled": true,
+
+ // "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwr0HuUSYZTAHg9pylQPewdC5vLd2xN75t5SV2ZPa2dw3EkBKTh7rYMUZvLj/x//lfUwaEOVVjAVrIBZERPJ3VzghHuLJeUXA9kuBpmYQdpbx7oHyvhkWS6FN1gDv7931yjl/24P9qnO9/0MAhET+27Hn94LWIWRTqFgMEJaRqm7wRyHt1IK/BNvRTnVjSX3PX23eGJ02KrYf5G8LNuYXlua+hIc1ycoZCctYwY7Pjz3Wl+GzkctKL7QAPvPL7ef14EFQ59WEt1qCEQwOZdQRwdnGDkB0gHv+MUYhhUR9cK/a5AuyZdBAu66GQ2Wzgv5gNrEo7vGh+3aAkUNalx8L1QIDAQAB"
+
+ // "version_name": "10.2.5",
+ // "default_locale": "zh_CN",
+ // "group": "qb-extension",
+ 
+     // "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwr0HuUSYZTAHg9pylQPewdC5vLd2xN75t5SV2ZPa2dw3EkBKTh7rYMUZvLj/x//lfUwaEOVVjAVrIBZERPJ3VzghHuLJeUXA9kuBpmYQdpbx7oHyvhkWS6FN1gDv7931yjl/24P9qnO9/0MAhET+27Hn94LWIWRTqFgMEJaRqm7wRyHt1IK/BNvRTnVjSX3PX23eGJ02KrYf5G8LNuYXlua+hIc1ycoZCctYwY7Pjz3Wl+GzkctKL7QAPvPL7ef14EFQ59WEt1qCEQwOZdQRwdnGDkB0gHv+MUYhhUR9cK/a5AuyZdBAu66GQ2Wzgv5gNrEo7vGh+3aAkUNalx8L1QIDAQAB"

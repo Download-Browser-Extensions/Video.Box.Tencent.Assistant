@@ -1,0 +1,34 @@
+{
+   "author": "Mohammed Osama Mohamed Sayed Ahmed",
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "img/19.png",
+      "default_popup": "popup.html",
+      "default_title": "追剧助手"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://stdl.qq.com 'unsafe-inline'; object-src 'self'",
+   "description": "Video box Tencent Assistant | 追剧助手【QQ浏览器官方出品】",
+   "group": "qb-extension",
+   "homepage_url": "http://video.browser.qq.com",
+   "icons": {
+      "128": "img/128.png",
+      "48": "img/48.png"
+   },
+   "is_account_related": false,
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm9/VZAzPxtI0TL6EROfTwobCcjX3eurnA3kMDcEon7xX/zlq5fOmnq9rKTtaiA4pwMrrBBFOD495JVwC2dkf8+CTflVHsHjQDFDlrwROmcjkrQ1rpihkd6rM79u+RQB312qnw8N9omoHpyje6wImzqwTETEFy3fPTynRUnPdFu3k1tU4tEu051ClrbOpqcbucdZijdo5Ul7AiDGvAJYHZljV+GNaqvXnuBwW7GZ9Db82gxSjLoPKN8dvwVNBdR330vOJY54A2+lDYJ2hBWVf58xQydYIEVoyYb5G9QM7fC5Bjl+CbBAZOvkCo/OvCMajmjppP2fr2BsY3/YVJxufVwIDAQAB",
+   "main_page_url": "index.html",
+   "manifest_version": 2,
+   "minimum_chrome_version": "57",
+   "minimum_qb_version": "9.5.10548.0",
+   "name": "Video box Tencent Assistant | 追剧助手",
+   "offline_enabled": true,
+   "options_page": "options.html",
+   "permissions": [ "notifications", "activeTab", "tabs", "storage", "cookies", "http://*/*", "https://*/*" ],
+   "popup_mode": 1,
+   "short_name": "video Tencent assistant & Tracing assistant",
+   "show_position": 2,
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.4.3"
+}
