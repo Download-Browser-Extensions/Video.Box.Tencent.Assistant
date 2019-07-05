@@ -7,7 +7,7 @@
 
 
 
-  <img src="https://raw.githubusercontent.com/Download-Browser-Extensions/VideoBox-Tencent-Assistant/master/img/128.png" /> <H4> Chrome Web Store Extension Chinese Video box Tencent Assistant ( 追剧助手 ) </H4>
+<img src="https://raw.githubusercontent.com/Download-Browser-Extensions/VideoBox-Tencent-Assistant/master/img/48.png" /> <H4> Chrome Web Store Extension Chinese Video box Tencent Assistant ( 追剧助手 ) </H4>
 
 ---
 
