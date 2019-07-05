@@ -1,2 +1,2 @@
-# VideoBox-Tencent-Assistant
-Video box Tencent Assistant | 追剧助手
+
+##### Chrome Web Store Extension Chinese Video box Tencent Assistant | 追剧助手
