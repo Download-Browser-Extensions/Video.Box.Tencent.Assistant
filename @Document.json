@@ -1,0 +1,23 @@
+
+   /*
+   "import": [{"id": "oifiglhgamignicpkfpfgldlnhckdjhc"}],
+   "offline_enabled": true, 
+   
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://stdl.qq.com 'unsafe-inline'; object-src 'self'",
+   
+   "version": "1.5.4.3"
+   "minimum_chrome_version": "57",
+   "content_security_policy": "default-src 'self' https://ssl.google-analytics.com",
+   "homepage_url": "http://video.browser.qq.com",
+
+   "options_ui": {
+    "page": "options.html",
+    "chrome_style": true
+    }
+	
+  //
+  //  Chrome Web Store (id): oifiglhgamignicpkfpfgldlnhckdjhc
+  // 
+  // "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm9/VZAzPxtI0TL6EROfTwobCcjX3eurnA3kMDcEon7xX/zlq5fOmnq9rKTtaiA4pwMrrBBFOD495JVwC2dkf8+CTflVHsHjQDFDlrwROmcjkrQ1rpihkd6rM79u+RQB312qnw8N9omoHpyje6wImzqwTETEFy3fPTynRUnPdFu3k1tU4tEu051ClrbOpqcbucdZijdo5Ul7AiDGvAJYHZljV+GNaqvXnuBwW7GZ9Db82gxSjLoPKN8dvwVNBdR330vOJY54A2+lDYJ2hBWVf58xQydYIEVoyYb5G9QM7fC5Bjl+CbBAZOvkCo/OvCMajmjppP2fr2BsY3/YVJxufVwIDAQAB",        
+  */
+  
