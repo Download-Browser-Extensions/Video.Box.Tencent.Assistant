@@ -13,6 +13,13 @@
 
  <br /> <p>
 
+
+###### **`Action Required: One or more of your items require changes to comply with Chrome Web Store Policy:`** 
+###### Chinese Video box Tencent Assistant | 追剧助手 - oifiglhgamignicpkfpfgldlnhckdjhc
+
+###### **`The item(s) listed above are at risk of being removed from the Store. An email has been sent to your developer account with details about the policy violation. In order to avoid removal, please make the necessary changes and publish a new version of your item.`** [I didn’t receive an email](https://support.google.com/chrome_webstore/contact/developer_support)
+
+
  <strong> Chrome Web Store Extension Chinese Video box Tencent Assistant  ( 追剧助手 ) </strong>
 
 
